@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b0087c1f6c6a7034bb47dd60f2dd505e
+timeCreated: 1454303483
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54901
+  packageName: Poker Foley Sounds
+  packageVersion: 1.0
+  assetPath: Assets/PRINCIPLE SOUND DESIGN - Poker Foley Sounds/Check/check_fast_6.wav
+  uploadId: 100813

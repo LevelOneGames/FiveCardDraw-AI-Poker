@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 0afafe3fe29578d41919d9c6bcc47d7c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54901
+  packageName: Poker Foley Sounds
+  packageVersion: 1.0
+  assetPath: Assets/PRINCIPLE SOUND DESIGN - Poker Foley Sounds/Chips/small_blind_9.wav
+  uploadId: 100813
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 1
+  platformSettingOverrides: {}
+  forceToMono: 1
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 8a806422971befd4bbef1b14660c0a5e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54901
+  packageName: Poker Foley Sounds
+  packageVersion: 1.0
+  assetPath: Assets/PRINCIPLE SOUND DESIGN - Poker Foley Sounds/Chips/chips_to_bank_single_9.wav
+  uploadId: 100813
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 1
+  platformSettingOverrides: {}
+  forceToMono: 1
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
